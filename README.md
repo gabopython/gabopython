@@ -4,3 +4,4 @@
 
 - 🌱 I’m currently learning GCP
 - 👯 I’m looking to collaborate on Web Development and Open Source Projects, and New Ideas.
+- 💬 Talk to me about Python, Freelancing Opportunities, Open Source, Game development.
