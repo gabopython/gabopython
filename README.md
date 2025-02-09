@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About me
-I am 25 years old, I like sports, dance, technology, art, science, etc. I also like being healthy and I care about being financially well.
+I am 25 years old, I like sports, dance, technology, art, programming, science, etc. I also like being healthy and I care about being financially well.
 
 
 
